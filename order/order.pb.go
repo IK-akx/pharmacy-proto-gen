@@ -662,7 +662,7 @@ const file_order_order_proto_rawDesc = "" +
 	"\bGetOrder\x12\x16.order.GetOrderRequest\x1a\x14.order.OrderResponse\x12G\n" +
 	"\rGetUserOrders\x12\x1b.order.GetUserOrdersRequest\x1a\x19.order.ListOrdersResponse\x12>\n" +
 	"\vCancelOrder\x12\x19.order.CancelOrderRequest\x1a\x14.order.OrderResponse\x12B\n" +
-	"\x0eGetUserBalance\x12\x18.order.GetBalanceRequest\x1a\x16.order.BalanceResponseB+Z)github.com/IKakx/pharmacy-proto-gen/orderb\x06proto3"
+	"\x0eGetUserBalance\x12\x18.order.GetBalanceRequest\x1a\x16.order.BalanceResponseB,Z*github.com/IK-akx/pharmacy-proto-gen/orderb\x06proto3"
 
 var (
 	file_order_order_proto_rawDescOnce sync.Once

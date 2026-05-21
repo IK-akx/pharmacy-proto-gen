@@ -250,7 +250,7 @@ const file_product_product_proto_rawDesc = "" +
 	"\tnew_stock\x18\x02 \x01(\x05R\bnewStock2\xab\x01\n" +
 	"\x0eProductService\x12U\n" +
 	"\x11CheckAvailability\x12!.product.CheckAvailabilityRequest\x1a\x1d.product.AvailabilityResponse\x12B\n" +
-	"\vUpdateStock\x12\x1b.product.UpdateStockRequest\x1a\x16.product.StockResponseB-Z+github.com/IKakx/pharmacy-proto-gen/productb\x06proto3"
+	"\vUpdateStock\x12\x1b.product.UpdateStockRequest\x1a\x16.product.StockResponseB.Z,github.com/IK-akx/pharmacy-proto-gen/productb\x06proto3"
 
 var (
 	file_product_product_proto_rawDescOnce sync.Once
