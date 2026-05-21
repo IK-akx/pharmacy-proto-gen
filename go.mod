@@ -1,4 +1,4 @@
-module github.com/IKakx/pharmacy-proto-gen
+module github.com/IK-akx/pharmacy-proto-gen
 
 go 1.25.5
 
